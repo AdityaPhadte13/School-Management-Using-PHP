@@ -1,0 +1,40 @@
+body{
+			background-image: url("almeida.jpg");
+			background-repeat: no-repeat ;
+			background-size: cover;
+			background-attachment: scroll; 
+		}
+header {
+	height: 50px;
+	border-bottom: 1px solid gray;
+	background-color: #F1F1f1; 
+}
+header h1 {
+      font-size: 1.5em;
+      font-weight: bold;
+      text-align: center;
+      line-height: 50px;
+}
+.student_login {
+	position: absolute;
+	right:15px;
+	top: 80px; 
+}
+.admin_login {
+    position: absolute;
+	right:15px;
+	top: 300px;	
+}
+.open {
+	float: left;
+	width: 150px;
+	margin-top: 45px;
+    margin-left: 20px;
+    border: 1px solid grey;
+}	
+.welcome {
+	margin-top: 30px;
+	margin-left: 225px;
+	margin-right: 225px;
+    padding-right: 30px;
+}
